@@ -106,6 +106,8 @@ Instructions regarding the code
 - All the images would be saved in `path = "cover_images"`
 - The name of the images is a counter, starting from 100, `counter = 100` (e.g. 100.jpg, 101.jpg)
 
+A backup of the database I used is also provided at [extra/database.zip](extra/database.zip).
+
 ## Requirements
 The website was built using the following versions of the libraries
 - python = 3.9.7
