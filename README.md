@@ -17,7 +17,7 @@ The frontend development (HTML, CSS, JavaScript) was handled by [Vipul Shinde](h
 ### Logged off user
 A logged off user can search for books and look for the details of the interested books. When the above user tries to make a purchase, the user is redirected to sign-in page.
 
-![](videos/logged_off_user.mp4)
+https://user-images.githubusercontent.com/24699564/134438041-adc04a7e-5319-4fb4-bc65-a450ea61b8d1.mp4
 
 ## Requirements
 The website was built using the following versions of the main libraries
