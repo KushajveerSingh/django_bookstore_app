@@ -29,10 +29,14 @@ The frontend development (HTML, CSS, JavaScript) was handled by [Vipul Shinde](h
 ### Logged off user
 A logged off user can search for books and look for the details of the interested books. When the user tries to make a purchase, the user is redirected to the sign-in page.
 
+https://user-images.githubusercontent.com/24699564/134594909-bd846369-dd18-4fa0-b9f8-6139d0b98dae.mp4
+
 ### Sign-up process
 To sign up, the user has to provide personal information and optionally, provide address and payment information. After a user has provided the required information, an email is sent to the user with a link to activate the account. Clicking the link activate's the account and redirect's the user to the homepage.
 
 If the user has not activated the account, then the user would be treated as a logged-off user and when the user tries to sign-in, an error message, "Please activate your account" would be shown.
+
+https://user-images.githubusercontent.com/24699564/134594932-3b85451c-6b0e-4258-ac48-14bb0f109970.mp4
 
 ### Editing profile
 You can do the following
@@ -47,6 +51,8 @@ When you click "save changes" the information is updated in the database and an 
 - If a new payment card has been added to your account
 - If a previous payment card has been removed from your account
 
+https://user-images.githubusercontent.com/24699564/134594948-862b50de-b33a-46c9-82e0-0ea7df37c65a.mp4
+
 ### Change password
 A user can change the password of their account, if they are already logged in. To do this the user must provide the old password and then enter the new password. Checks are implemented to ensure the new password is strong, including things like
 - New password cannot to similar to personal information
@@ -55,6 +61,8 @@ A user can change the password of their account, if they are already logged in. 
 
 An email is also sent to the user about the change the change of password.
 
+https://user-images.githubusercontent.com/24699564/134594960-1f385e00-3c61-482b-9734-a006255180ea.mp4
+
 ### Forgot password
 If a user cannot remember their password, then the user can click the *Forgot password* link on sign-in page, to reset their password.
 
@@ -62,6 +70,8 @@ Upon clicking the link, the user is asked to enter their email address. Then an 
 - New password cannot to similar to personal information
 - New password cannot be similar to old password
 - Checks about minimum length / special characters / numbers
+
+https://user-images.githubusercontent.com/24699564/134594972-37fe572c-a2b0-4758-9aa3-ea230a213d5b.mp4
 
 ### Searching for books
 There are two types of search provided: basic search and advanced search.
@@ -75,6 +85,8 @@ In advanced search, we can filter the books using the following information
 
 Using the above three filters, the user can search for the information they are interested in.
 
+https://user-images.githubusercontent.com/24699564/134594987-9fe75a82-21f8-43b9-a0f0-069418255c44.mp4
+
 ### Placing an order
 Steps to place an order are as follows
 1. Add the respective books to the shopping cart.
@@ -84,6 +96,8 @@ Steps to place an order are as follows
 5. In the next step, a summary of your order is shown. And here you can also modify the information provided in step 3 and step 4 before finalizing the order.
 6. Finally, you can place the order.
 
+https://user-images.githubusercontent.com/24699564/134595004-c8db1fc4-dd12-4fac-b0bc-bdfcc4851024.mp4
+
 ### Adding promotions to website
 An admin can add new promotions to be used by the users. When an admin adds a new promotion, an email is sent to all the users, who have opted in to receive promotions.
 
@@ -91,6 +105,8 @@ Now the users can use this promotion when they place their next order. All the r
 - User can use the same promotion only once
 - Promotion should have started before use
 - Promotion should not have expired on use
+
+https://user-images.githubusercontent.com/24699564/134595010-e2abe7ad-bd9b-4fbf-9a91-ce0c2757987a.mp4
 
 ### Other functionality
 - You can reorder books from your previous orders. In case some books from your previous order are out of stock, then an error message is shown that some books could not be added to your cart as they are out of stock and the remaining books are added to the cart.
