@@ -1,10 +1,5 @@
 # Genlib
-This repository contains an implementation of an online-bookstore-system built using the [Django](https://www.djangoproject.com/) framework. I worked on the following aspects of the project
-- Backend implementation
-- Database creation and handling
-- Frontend and backend integration
-
-The frontend development (HTML, CSS, JavaScript) was handled by [Vipul Shinde](https://github.com/vipul-shinde) and [ManushGH](https://github.com/ManushGH).
+This repository contains an implementation of an online bookstore system built using the [Django](https://www.djangoproject.com/) framework.
 
 ## Table of Contents
 - [Website working](#website-working)
