@@ -1,5 +1,7 @@
 # Genlib
-This repository contains an implementation of an online bookstore system built using the [Django](https://www.djangoproject.com/) framework.
+- Developed on online bookstore application using Django and HTML/CSS/JavaScript, featuring secure user authentication, account activation, profile editing, and password management with automated email notifications to enhance user experience and security.
+▪ Implemented advanced search functionality, allowing users to filter books by category, author/publisher, ratings, and price, alongside a seamless ordering process, including promotion code integration, order summary, and reordering options.
+▪ Enabled admin capabilities to add and manage promotions, with automatic email notifications to opted-in users, while incorporating inventory checks for reordering and ensuring promotion validity, resulting in a comprehensive and user-friendly e-commerce platform.
 
 ## Table of Contents
 - [Website working](#website-working)
